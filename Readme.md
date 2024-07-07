@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an Undergraduate student pursuing B. Tech degree in the specialization of Computer Science and Business Systems. Proficient in Coding and Development. Have an experience in the fields of Web Development, WordPress Development and Backend Development.<br><br>
+With a B. Techb degree in Computer Science and Business Systems, I recently graduated. Having developed websites, WordPress websites, and backend of the websites, I am a coder and developer.<br><br>
 🔭 **I’m currently working on:**  <br>Web Applications and Mobile Applications.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Angular, GraphQL, Jenkins and Data Structures & Algos.
 
 ## 🌐 Socials:
